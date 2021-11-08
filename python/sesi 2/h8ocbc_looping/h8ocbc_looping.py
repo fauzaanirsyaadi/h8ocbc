@@ -4,7 +4,7 @@ numbers = [
     953, 345, 399, 162, 758, 219, 918, 237, 412, 566, 826, 248, 866, 950, 626, 949
 ]
 
-# Loop and print all the even numbers from the list of numbers above in the same order.
+# Loop and print all the even numbers from the list of numbers.
 for number in numbers:
     if number % 2 == 0:
         print(number)

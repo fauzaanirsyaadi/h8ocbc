@@ -279,7 +279,7 @@ def raise_exception(a, b):
         raise
 
 
-print(raise_exception(1, 0))
+# print(raise_exception(1, 0))
 
 # chaining
 print('\nchaining')

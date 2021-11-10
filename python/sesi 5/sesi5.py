@@ -335,8 +335,8 @@ print(book1)
 book1 *= book1
 print(book1)
 # use itruediv to print
-book1 /= book1
-print(book1)
+# book1 /= book1
+# print(book1)
 # use ifloordiv to print
 book1 //= book1
 print(book1)
